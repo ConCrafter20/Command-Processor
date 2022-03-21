@@ -1,0 +1,15 @@
+C:\Users\rapha\source\repos\CommandProcceser\CommandProcceser\bin\Debug\net6.0\CommandProcceser.exe
+C:\Users\rapha\source\repos\CommandProcceser\CommandProcceser\bin\Debug\net6.0\CommandProcceser.deps.json
+C:\Users\rapha\source\repos\CommandProcceser\CommandProcceser\bin\Debug\net6.0\CommandProcceser.runtimeconfig.json
+C:\Users\rapha\source\repos\CommandProcceser\CommandProcceser\bin\Debug\net6.0\CommandProcceser.dll
+C:\Users\rapha\source\repos\CommandProcceser\CommandProcceser\bin\Debug\net6.0\CommandProcceser.pdb
+C:\Users\rapha\source\repos\CommandProcceser\CommandProcceser\obj\Debug\net6.0\CommandProcceser.csproj.AssemblyReference.cache
+C:\Users\rapha\source\repos\CommandProcceser\CommandProcceser\obj\Debug\net6.0\CommandProcceser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\source\repos\CommandProcceser\CommandProcceser\obj\Debug\net6.0\CommandProcceser.AssemblyInfoInputs.cache
+C:\Users\rapha\source\repos\CommandProcceser\CommandProcceser\obj\Debug\net6.0\CommandProcceser.AssemblyInfo.cs
+C:\Users\rapha\source\repos\CommandProcceser\CommandProcceser\obj\Debug\net6.0\CommandProcceser.csproj.CoreCompileInputs.cache
+C:\Users\rapha\source\repos\CommandProcceser\CommandProcceser\obj\Debug\net6.0\CommandProcceser.dll
+C:\Users\rapha\source\repos\CommandProcceser\CommandProcceser\obj\Debug\net6.0\refint\CommandProcceser.dll
+C:\Users\rapha\source\repos\CommandProcceser\CommandProcceser\obj\Debug\net6.0\CommandProcceser.pdb
+C:\Users\rapha\source\repos\CommandProcceser\CommandProcceser\obj\Debug\net6.0\CommandProcceser.genruntimeconfig.cache
+C:\Users\rapha\source\repos\CommandProcceser\CommandProcceser\obj\Debug\net6.0\ref\CommandProcceser.dll
